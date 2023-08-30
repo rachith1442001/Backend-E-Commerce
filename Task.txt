@@ -1,0 +1,72 @@
+User => User's details
+After creating an account, users can login using their email and password. I have implemented JWT authentication, which allows access to all other details using the token.
+
+Category => CRUD operations, which will be used in Product
+
+Product => This schema contains all product details and includes category details from the "category" schema.
+
+Order details => Here, I can post the products from the "Product" schema as orderedItems and include the user details from the "user" schema.
+
+-----------------------------
+Pendng on My Side-------------
+Order
+Inventory - Count of stocks----OTP----Payement
+Login Count
+------------------------------
+
+Finished---------------------------------------------------------------------------------------------
+1.Soft Deletion
+2.Random Bcrypt
+3.Server-Side Pagination for Get API
+4.Authorization for Database 
+5.Search API for Products 
+6.Login Count:Implemented a login count feature, which restricts login attempts after a certain limit. - Las
+7.Inventory Management for Products
+8. Cart Items
+-----------------------------------------------------------------------------------------------------
+
+Finished---------------------------------------------------------------------------------------------
+1.Soft Deletion
+2.Random Bcrypt
+3.Server-Side Pagination for Get API
+4.Authorization for Database 
+5.Search API for Products 
+6.Login Count:Implemented a login count feature, which restricts login attempts after a certain limit. - Last tab
+7.Inventory Management for Products
+8. Cart Items
+-----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
